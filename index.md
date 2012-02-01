@@ -51,3 +51,6 @@ opts_knit$set(header = c('\\usepackage{listings}', '\\lstset{language=R}'))
 @
 {% endhighlight %}
 
+```r
+install.packages('formatR')
+```
