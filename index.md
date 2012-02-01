@@ -42,4 +42,12 @@ Here's a sample "posts list".
 This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
 We need to clean up the themes, make theme usage guides with theme-specific markup examples.
 
+{% highlight r %}
+<<knitr-config, echo=FALSE, results=hide>>=
+library(knitr)
+opts_knit$set(header = c('\\usepackage{listings}', '\\lstset{language=R}'))
+## change the header information to use the LaTeX package listings
+## you need to change hooks accordingly, of course
+@
+{% endhighlight %}
 
