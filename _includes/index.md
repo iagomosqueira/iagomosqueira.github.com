@@ -7,4 +7,4 @@
 
 ### License
 
-[CC License](http://chibicode.mit-license.org/)
+[CC BY SA License](http://creativecommons.org/licenses/by-sa/4.0/)
