@@ -1,10 +1,18 @@
 
-## Work
+## Fish and numbers
+## Finding ways to manage the world's fisheries with science and care.
+
+I am a researcher at the Maritime Affairs Unit of the European Commission Joint Research Center in Ispra, Italy.
+
+FLR
+
+IOTC
+
+# Work
 
 * JRC
 
-## Contact
+# Contact
 
-### License
 
-[CC BY SA License](http://creativecommons.org/licenses/by-sa/4.0/)
+(c) Iago Mosqueira 2014
