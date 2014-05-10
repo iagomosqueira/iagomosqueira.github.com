@@ -13,7 +13,4 @@ I am a researcher at the Maritime Affairs Unit of the European Commission [Joint
 
 ![Iago Mosqueira](./IagoMOSQUEIRA.jpg)
 
-<img style="float: left" src="./IagoMOSQUEIRA.jpg" />
-
 &copy; Iago Mosqueira 2014
-
