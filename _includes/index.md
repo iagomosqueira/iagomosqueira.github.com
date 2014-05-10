@@ -1,5 +1,5 @@
 
-I am a researcher at the Maritime Affairs Unit of the [European Commission](http://ec.europa.eu/index_en.htm) [Joint Research Center](https://ec.europa.eu/jrc/) in Ispra, Italy.
+I am a researcher at the Maritime Affairs Unit of the [European Commission](http://ec.europa.eu/index_en.htm) [Joint Research Center](https://ec.europa.eu/jrc/) in Ispra, Italy, working on the development and application of simulation tools for fisheries management.
 
 ## Quantitative Fisheries Science
 
