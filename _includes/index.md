@@ -5,11 +5,17 @@ I am a researcher at the Maritime Affairs Unit of the [European Commission](http
 
 ## Quantitative Fisheries Science
 
-## R
+- [Working Party on Methods](http://iotc.org/science/wp/working-party-methods-wpm) of the [Indian Ocean Tuna Commission](http://iotc.org/).
+
+## FLR
 
 ## Training
 
 - Stock Assessment (Introduction) for [ICES Training Programme](http://ices.dk/news-and-events/Training/Pages/default.aspx).
+
+- Introduction to R for Fisheries Scientists.
+
+- Quantitative Fisheries Science using FLR.
 
 ## Publications
 
