@@ -17,6 +17,6 @@ I am a researcher at the Maritime Affairs Unit of the [European Commission](http
 
 ## Publications
 
-- Hillary, R. M., Polina L., Kuikka, S., Manteniemi, S., Mosqueira, I., Kell, L. 2012. Multi-Level Stock–recruit Analysis: Beyond Steepness and into Model Uncertainty. _Ecological Modelling_, 242: 69–80. [doi:10.1016/j.ecolmodel.2012.05.024](http://dx.doi.org/10.1016/j.ecolmodel.2012.05.024).
+- <small>Hillary, R. M., Polina L., Kuikka, S., Manteniemi, S., Mosqueira, I., Kell, L. 2012. Multi-Level Stock–recruit Analysis: Beyond Steepness and into Model Uncertainty. _Ecological Modelling_, 242: 69–80. [doi:10.1016/j.ecolmodel.2012.05.024](http://dx.doi.org/10.1016/j.ecolmodel.2012.05.024).</small>
 
 &copy; Iago Mosqueira 2014
